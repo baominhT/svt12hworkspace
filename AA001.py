@@ -12,3 +12,6 @@ while True:
       
       if as45nj == 'CENSORED':
         print("folder content")
+        
+        """CASE REASONING
+        the workers do not have time to do this because they are either fixing an more important error or adding new features/patches to the security."""
